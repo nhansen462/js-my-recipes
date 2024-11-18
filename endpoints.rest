@@ -5,6 +5,7 @@
 
 
 ### Webpage Endpoint
+GET {{url}}
 
 ### Recipe List Endpoint
 GET {{apiUrl}}
